@@ -1,8 +1,17 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Matematikk.wiki 
+description: Leksikon for matematikk 
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: dark
+
+footer_content: 'Copyright &copy; 2023- <script> 
+  let year = new Date().getFullYear();
+  document.write(year);
+  console.log("Success");
+  </script> Simon Bakken-Jantasuk'
+
