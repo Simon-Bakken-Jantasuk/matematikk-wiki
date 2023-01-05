@@ -6,7 +6,8 @@ Les mer om dette på [How to create a pull request?](https://docs.github.com/en/
 
 
 # Hvordan legge til innhold?
-`
+
+```
 .
 ├── assets
 │   └── js
@@ -33,7 +34,8 @@ Les mer om dette på [How to create a pull request?](https://docs.github.com/en/
         ├── index.md
         ├── R1.md
         └── R2.md
-`
+```
+
 Midlertidig, så er det 3 forskjellige kataloger.
 
 1. Ungdomskole
@@ -47,7 +49,7 @@ Dette er for å betegne at katalogene er foreldrer (parent)
 
 La oss se på `R1.md`
 
-`
+```
 ---
 layout: default
 title: R1 
@@ -56,7 +58,7 @@ nav_order: 2
 has_children: true
 ---
 Vurderingskriterier
-`
+```
 
 Her har vi en `layout: default`, som er den du skal bruke. Tittel er tittelen til faget. Parent vil betegne foreldrer, 
 som er VGS. Vi vet dermed at `R1.md` er ett barn. `Nav_order` sier seg selv, dette er indeksen. `Has_children` vil si at 
@@ -70,7 +72,7 @@ Så kan du foreksempel lage en ny markdown fil, med ny front matter.
 
 Den kan se sånn her ut
 
-`
+```
 ---
 layout: default
 title: Derivasjon
@@ -78,5 +80,5 @@ parent: R1
 nav_order: 1
 ---
 Skriv her...
-`
+```
 
