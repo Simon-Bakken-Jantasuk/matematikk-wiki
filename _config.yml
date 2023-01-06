@@ -5,9 +5,9 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  Github: https://github.com/just-the-docs/just-the-docs-template
+  Github: https://github.com/Simon-Bakken-Jantasuk/matematikk-wiki
 
-footer_content: 'Copyright &copy; 2023- <script> 
+footer_content: 'Copyright &copy; 2023-<script> 
   let year = new Date().getFullYear();
   document.write(year);
   console.log("Success");
@@ -41,3 +41,6 @@ callouts:
     color: red
   highlight:
     color: purple
+  note:
+    title: Bemerk
+    color: blue
