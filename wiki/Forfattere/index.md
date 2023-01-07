@@ -9,13 +9,21 @@ nav_order: 2
 
 ### {{ person.author }}
 
-{{ person.social }}
+#### Kontakt
 
-{{ person.crypto }}
+- {{ person.email }}
+- [GPG](/assets/gpg/{{ person.gpg }})
 
-```
-{{ person.gpg }}
-```
+
+#### Sosial
+
+{% for website in person.social %}
+- [{{ website }}](https://www.{{ website }})
+{% endfor %}
+
+#### Donasjon
+
+- {{ person.donation }}
 
 {% endfor %}
 {% endfor %}
