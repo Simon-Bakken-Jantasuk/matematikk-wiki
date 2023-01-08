@@ -2,11 +2,10 @@ title: Matematikk.wiki
 description: Leksikon for matematikk 
 
 # Remote Setting
-baseurl: "/guidelines"
-# url: ""
+url: ""
 
 # Theme
-# theme: "just-the-docs"
+theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 
 
