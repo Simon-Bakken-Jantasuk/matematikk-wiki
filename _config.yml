@@ -23,6 +23,9 @@ collections:
   Universitet:
     permalink: "/:collection/:path/"
     output: true
+  Annet:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   collections:
@@ -32,6 +35,8 @@ just_the_docs:
       name: VGS
     Universitet:
       name: Universitet
+    Annet:
+      name: Annet
 
 # For copy button on code
 enable_copy_code_button: true
