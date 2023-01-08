@@ -1,15 +1,8 @@
 title: Matematikk.wiki 
 description: Leksikon for matematikk 
-
-# Remote Setting
-url: ""
-
-# Theme
 theme: "just-the-docs"
-remote_theme: pmarsceill/just-the-docs
 
-
-url: https://just-the-docs.github.io
+url: https://Simon-Bakken-Jantasuk.github.io/matematikk-wiki
 
 aux_links:
   Github: https://github.com/Simon-Bakken-Jantasuk/matematikk-wiki
