@@ -13,7 +13,7 @@ Eller så kan du hjelpe med donasjon!
 
 #### Monero 
 
-![monero_qr_code_donation](/assets/images/monero_qr_code.webp)
+![monero_qr_code_donation](/assets/images/monero_qr_code.WEBP)
 
 	46xCbLJLfvhFMDuKkLPiu7Th5DhbecMdyCPgzhL7KtVURQaskp3YfnYJ29vZdS6BtTXqfyneUwzPdNsEZiT9sFZANTNsg8T
 
