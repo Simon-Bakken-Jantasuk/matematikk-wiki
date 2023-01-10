@@ -13,6 +13,8 @@ footer_content: 'Copyright &copy; 2023-<script>
   console.log("Success");
   </script> Simon Bakken-Jantasuk'
 
+math_engine: mathjax
+
 collections:
   Ungdomskole:
     permalink: "/:collection/:path/"
