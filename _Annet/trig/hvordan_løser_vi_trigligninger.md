@@ -2,7 +2,7 @@
 layout: post
 author: Simon
 date: 23-01-08
-title: Hvordan løser vi trigometriske ligninger med formen sin(x-v), cos(x-v) eller tan(x-v)?
+title: Hvordan løser vi trigometriske ligninger med formen $\sin{(x-v)}$, $\cos{(x-v)}$ eller $\tan{(x-v)}$?
 ---
 La oss se på et eksempel,
 
